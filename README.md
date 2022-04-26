@@ -1,7 +1,7 @@
 # Hi 👋 Here is Anson Tsang
 ---
 ## Simple Intro 👋👋
-Hi, I am a Software Developer who love Network Engineering and System Administration 😂 Living in Hong Kong 🇭🇰 I love playing sandbox game especially Minecraft🪵Hope can see you in the servers which I play ~ (My IGN is same as my GitHub's name)
+Hi, I am a Software Developer who loves Network Engineering and System Administration 😂 Living in Hong Kong 🇭🇰 I love playing sandbox game especially Minecraft🪵Hope can see you on the servers which I play ~ (My IGN is the same as my GitHub's name)
 
 ## Sth about programming and IT 😜
 * 🥲 The language I learned in the first place: C++ (That thing nearly killed me 😵‍💫
@@ -13,9 +13,9 @@ Hi, I am a Software Developer who love Network Engineering and System Administra
 ## About me
 * 🎮 Favorite Games: Minecraft, Terreria, Frostpunk, WatchDog
 * 📫 Contact Me: [Working Email](mailto:tch@s.hypernite.com) | [Private Email](mailto:ansont1112@gmail.com) 
-* 💬 Friends Talk (I'm easy going): Discord: ansontsang1112#1112, Steam: ansontsang1112
+* 💬 Friends Talk (I'm easygoing): Discord: ansontsang1112#1112, Steam: ansontsang1112
 * 🔭 Interest in: Programming, fixing networks, managing servers, playing games, bullshitting😂😂
-* ⚡ Fun fact: You will know I am bullshit generater after you get close with me ~~~~
+* ⚡ Fun fact: You will know I am a bullshit generator after you get close with me ~~~~
 
 ---
 ## 🖥️ Skills
