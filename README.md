@@ -7,8 +7,8 @@ Hi, I am a Software Developer who loves Network Engineering and System Administr
 * 🥲 The language I learned in the first place: C++ (That thing nearly killed me 😵‍💫
 * ❤️ The language I love: PHP && Java (That's easy to use ~ 
 * 🙃 The language I don't like: JavaScript (I'd know y 🤣 just don't want to use QQ
-* 🌱 The language I am currently learning: Go, C#, Kolin
-* 
+* 🌱 The language I am currently learning: C#, Kolin
+
 
 ## About me
 * 🎮 Favorite Games: Minecraft, Terreria, Frostpunk, WatchDog
@@ -20,7 +20,7 @@ Hi, I am a Software Developer who loves Network Engineering and System Administr
 ---
 ## 🖥️ Skills
 ### ⌨️ Langange
-> PHP, Java, Python, JavaScript (Although I don't like it), C++, C, HTML
+> PHP, Java, Python, JavaScript (Although I don't like it), C++, C, HTML, Go
 ### 🕹️ Frameworks
 > Spring MVC, Bootstrap
 ### 💽 Tools
