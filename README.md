@@ -26,4 +26,4 @@ Hi, I am a Software Developer who loves Network Engineering and System Administr
 ### 💽 Tools
 > Docker, MySQL, Redis, Apache, Nginx, Git, Linux Shell, Windows Batch
 ### 🌐 Networking, Systems and Technologies
-> Networking (CCNA), Directory Services (Active Directory, LDAP), Virtualization (Proxmox, ESXi), OS (Windows Server, Liunx Distro: Ubuntu, Oracle Linux, CentOS, Debian)
+> Networking (Routing and Switch), Directory Services (Active Directory, LDAP), Virtualization (Proxmox, ESXi), OS (Windows Server, Liunx Distro: Ubuntu, Oracle Linux, CentOS, Debian)
